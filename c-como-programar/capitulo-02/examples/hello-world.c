@@ -1,7 +1,8 @@
 /* Iniciando em C com hello world*/
+#include <stdio.h>
 
-int main()
+int main(void)
 {
-  printf('Hello World');
+  printf("Hello C World\n");
   return 0;  
 }
